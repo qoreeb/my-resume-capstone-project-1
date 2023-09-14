@@ -1,3 +1,3 @@
 # my-resume-capstone-project-1
 Capstone Project 1 - Online Resume
-My Resume
+<p>My Resume</p>
